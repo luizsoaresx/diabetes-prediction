@@ -96,4 +96,4 @@ Sim, todos os modelos apresentaram bons resultados e o fato do modelo de regress
 Acredito que uma melhoria para os modelos seria o tratamento de dados desbalanceados, pois eles dificultam a classificação. Além disso, acredito que seria interessante fazer o treinamento com outros modelos também.
 
 ## Perguntas
-As respostas das perguntas feitas no documento estão no notebook 'perguntas'
+As respostas das perguntas feitas no documento estão no notebook `perguntas` e no final do notebook `diabetes_prediction`
