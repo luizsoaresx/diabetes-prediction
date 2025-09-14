@@ -7,7 +7,7 @@
 * [Resultados](#resultados)
 * [Gráficos](#graficos)
 * [Conclusão](#conclusao)
-* [Perguntas](#colaboradores)
+* [Perguntas](#perguntas)
 
 ## Objetivo
 Implementar e comparar algoritmos de classificação supervisionada em um conjunto de dados real, por meio da aplicação de técnicas de pré-processamento, modelagem e avaliação de desempenho.
