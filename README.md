@@ -5,8 +5,8 @@
 * [Objetivo](#objetivo)
 * [Dataset](#dataset)
 * [Resultados](#resultados)
-* [Gráficos](#graficos)
-* [Conclusão](#conclusao)
+* [Gráficos](#gráficos)
+* [Conclusão](#conclusão)
 * [Perguntas](#perguntas)
 
 ## Objetivo
