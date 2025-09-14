@@ -81,6 +81,8 @@ weighted avg       0.96      0.96      0.96     20000
 F1-Score (weighted): 0.9559
 ```
 ## Gráficos
+<img width="846" height="527" alt="acurácia" src="https://github.com/user-attachments/assets/a38a6524-0be9-4e23-ae82-145c0145d997" />
+<img width="846" height="526" alt="f1_score" src="https://github.com/user-attachments/assets/caebdffa-540c-45cf-a141-3ddda8e6274e" />
 
 ## Conclusão
 **`Qual modelo apresentou melhor desempenho no dataset escolhido?`**
